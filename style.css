@@ -1,0 +1,71 @@
+
+
+body{
+   background-color: white;
+}
+
+.whole{
+    color: white;
+     background-image:linear-gradient(#803CC8, #8662CE, #E7B2BD, #DB346C, #F16738);
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 700px;
+
+}
+
+.logo{
+    font-family:;
+    color: black;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 20px;
+    margin-top: 15px;
+width: 250px;
+text-align: center;
+}
+
+button{
+    background-color: blue;
+    padding: 8px 113px;
+    color: white;
+    border: 0px solid blue;
+    
+}
+.forgot{
+    font-size: 12px;
+display: flex;
+justify-content: end;
+margin-right: 120px;
+
+}
+
+.OR{
+}
+
+a{
+    color: white;
+}
+.sign{
+    color: white;
+    border-top: 1px solid white;
+    margin-top: 150px;
+    padding-top: 25px;
+}
+
+
+
+
+
+
+
